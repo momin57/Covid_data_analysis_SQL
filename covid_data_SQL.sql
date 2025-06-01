@@ -107,7 +107,7 @@ SELECT
     ROUND((rolling_count_people_vaccinated / NULLIF(population, 0)) * 100, 2) AS percent_population_vaccinated
 FROM pop_vs_vac;
 
--- 10. Create View for Visualization
+-- Create View for Visualization
 CREATE OR ALTER VIEW PercentPopulationVaccinated AS
 SELECT 
     d.continent, 
