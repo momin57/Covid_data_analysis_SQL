@@ -69,16 +69,3 @@ These two datasets are joined on `location` and `date`.
 - `PercentPopulationVaccinated`: Used for tracking country-level vaccination progress as a percent of population.
 
 ---
-
-## 📌 Next Steps
-
-- Develop a **Power BI dashboard** to visualize the SQL analysis
-- Create trendlines, country comparisons, and global summaries
-
----
-
-## 🙌 Acknowledgment
-
-**Data Source**:  
-[Coronavirus (COVID-19) Deaths – Our World in Data](https://ourworldindata.org/covid-deaths)  
-Provided by [Our World In Data](https://github.com/owid/covid-19-data)
